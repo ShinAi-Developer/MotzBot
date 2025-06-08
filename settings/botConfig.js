@@ -41,10 +41,6 @@ const botResponsePatterns = [
 		handler: returnCommand["downloaders_youtube"].handleYoutubeMP3Download
 	},
 	{
-		command: "download instagram",
-		handler: returnCommand["downloaders_instagram"]
-	},
-	{
 		command: "ekstrak gambar ke teks",
 		handler: returnCommand["image_toText"]
 	},
