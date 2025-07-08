@@ -1,5 +1,5 @@
 {
-	"name": "@shinai/motzbot",
+	"name": "@shin-ai/motzbot",
 	"version": "1.0.0",
 	"description": "Template bot whatsapp berbasis template dasar @whiskeysockets/baileys. Note: if you dont understand this language, please read the README.md",
 	"main": "start.js",
@@ -8,7 +8,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"bin": {
-		"motz": "cli.js"
+		"motz": "./cli.js"
 	},
 	"engines": {
 		"node": ">=20.0.0"
@@ -41,14 +41,5 @@
 		"sharp": "^0.34.2",
 		"strip-ansi": "^7.1.0",
 		"tesseract.js": "^6.0.1"
-	},
-	"devDependencies": {},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/ShinAi-Developer/MotzBot.git"
-	},
-	"bugs": {
-		"url": "https://github.com/ShinAi-Developer/MotzBot/issues"
-	},
-	"homepage": "https://github.com/ShinAi-Developer/MotzBot#readme"
+	}
 }

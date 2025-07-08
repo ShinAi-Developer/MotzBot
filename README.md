@@ -9,7 +9,7 @@
 
 Dengan NPX
 ```bash
-npx @shinai/Motz
+npx @shin-ai/motzbot
 ```
 
 > [!WARNING]
